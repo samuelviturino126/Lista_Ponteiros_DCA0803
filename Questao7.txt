@@ -1,0 +1,5 @@
+Questao 7 - Resposta
+
+p = mat + 1 e valido, pois o ponteiro p recebe o endereco de mat[1]
+x = (*mat)++ e valido, pois x recebe o valor do primeiro elemento armazenado em mat[x]
+as outras duas operacoes nao sao validas, pois mat nao incrementa com outros enderecos de memoria, ja que e um array

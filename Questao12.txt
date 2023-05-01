@@ -1,0 +1,22 @@
+Questao 12 - Resposta
+
+Um ponteiro para uma função é uma forma de invocar uma função pelo seu endereço de memória
+#include <stdio.h>
+
+#include <math.h>
+
+int raiz (int a){
+
+return sqrt(a);
+
+}
+
+int main(void){
+
+int (*ponteiro)(int) = &raiz;
+
+printf("%d", ponteiro(25));
+
+  return 0;
+
+}

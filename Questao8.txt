@@ -1,0 +1,3 @@
+Questao 8 - Resposta
+
+O primeiro programa imprime os valores guardados no vetor e o segundo os enderecos de memoria deles

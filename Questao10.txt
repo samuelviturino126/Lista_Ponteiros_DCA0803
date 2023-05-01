@@ -1,0 +1,12 @@
+Questao 10 - Resposta
+
+#include <iostream>
+int main(){
+char x[4];
+int i;
+for(i=0;i<4;i++){
+printf("%X ",x+i);
+}
+}
+
+Basta modificar o tipo de x[4] para obter as outras respostas

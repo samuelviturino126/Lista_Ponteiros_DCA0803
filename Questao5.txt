@@ -1,0 +1,3 @@
+Questao 5 - Resposta
+
+Foram exibidos os enderecos na memoria, os valores de cada [x] do vetor e suas posições, mostrando também que cada posição do vetor andava 4 posicoes na memoria

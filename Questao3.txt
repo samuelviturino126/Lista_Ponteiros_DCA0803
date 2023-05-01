@@ -1,0 +1,6 @@
+Questao 3 - Resposta
+As seguintes expressoes de atribuicao sao ilegais
+p=i;
+p=&*&i;
+i=(*&)j;
+q = *p;

@@ -1,0 +1,4 @@
+Questao 2 - Resposta
+
+No printf("%x %d %d %d %d", p,*p+2,**&p,3**p,**&p+4); vai aparecer respectivamente;
+4094, 7, 5, 15 e 9

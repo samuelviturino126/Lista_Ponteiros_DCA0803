@@ -1,0 +1,6 @@
+Questão 1 - Resposta
+
+p == &i, retorna o endereço de i
+*p - *q = -2
+**&p = 3
+3 - *p/(*q) + 7 = 10
